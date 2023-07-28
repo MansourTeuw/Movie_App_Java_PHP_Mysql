@@ -1,0 +1,33 @@
+1.
+name = The Dark Knight (2008)
+storyline =
+Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as "The Joker" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to "confront everything he believes" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.—Leon Lombardi
+
+rating = 9
+runtime = 152 min
+categories = Action | Crime | Drama
+director = Christopher Nolan
+img =
+
+
+2.
+name = The Matrix (1999)
+storyline =
+Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion.
+
+rating = 8.7
+runtime = 136 min
+categories = Action | Sci-Fi
+director = Lana WachowskiLilly Wachowski
+img =
+
+3.
+name = Se7en (1995)
+storyline =
+A film about two homicide detectives' (Morgan Freeman and Brad Pitt) desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic "John Doe" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...—Mark Fleetwood <mfleetwo@mail.coin.missouri.edu>
+
+rating = 8.6
+runtime = 127 min
+categories = Action | Drama | Mystery
+director = David Fincher
+img =
